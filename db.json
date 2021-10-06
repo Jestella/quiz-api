@@ -9,25 +9,25 @@
     {
       "id": 2,
       "question": "She wants to be a ",
-      "correct": "Web Developer",
+      "correct_answer": "Web Developer",
       "incorrect_answers": ["UX/UI Designer", "Chef", "Prime Minister"]
     },
     {
       "id": 3,
       "question": "Her soul food is ",
-      "correct": "Pho",
+      "correct_answer": "Pho",
       "incorrect_answers": ["Sushi", "Tacos", "Pizza"]
     },
     {
       "id": 4,
       "question": "Her favourite animal is ",
-      "correct": "Dog",
+      "correct_answer": "Dog",
       "incorrect_answers": ["Cat", "Python", "Pigeon"]
     },
     {
       "id": 5,
       "question": "She lives in ",
-      "correct": "Toronto, Canada",
+      "correct_answer": "Toronto, Canada",
       "incorrect_answers": ["Montevideo, Uruguay", "Jeju, Korea", "Lima, Peru"]
     }
   ]
