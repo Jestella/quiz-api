@@ -3,37 +3,32 @@
     {
       "id": 1,
       "question": "She is ",
-      "answers": ["Korean", "Japanese", "Canadian", "Spanish"],
-      "correct": "Korean"
+      "correct_answer": "Korean",
+      "incorrect_answers": ["Japanese", "Canadian", "Spanish"]
     },
     {
       "id": 2,
       "question": "She wants to be a ",
-      "answers": ["UX/UI Designer", "Chef", "Web Developer", "Prime Minister"],
-      "correct": "Web Developer"
+      "correct": "Web Developer",
+      "incorrect_answers": ["UX/UI Designer", "Chef", "Prime Minister"]
     },
     {
       "id": 3,
-      "question": "Her soul food is",
-      "answers": ["Sushi", "Tacos", "Pho", "Pizza"],
-      "correct": "Pho"
+      "question": "Her soul food is ",
+      "correct": "Pho",
+      "incorrect_answers": ["Sushi", "Tacos", "Pizza"]
     },
     {
       "id": 4,
       "question": "Her favourite animal is ",
-      "answers": ["Dog", "Cat", "Python", "Pigeon"],
-      "correct": "Dog"
+      "correct": "Dog",
+      "incorrect_answers": ["Cat", "Python", "Pigeon"]
     },
     {
       "id": 5,
       "question": "She lives in ",
-      "answers": [
-        "Montevideo, Uruguay",
-        "Toronto, Canada",
-        "Jeju, Korea",
-        "Lima, Peru"
-      ],
-      "correct": "Toronto, Canada"
+      "correct": "Toronto, Canada",
+      "incorrect_answers": ["Montevideo, Uruguay", "Jeju, Korea", "Lima, Peru"]
     }
   ]
 }
